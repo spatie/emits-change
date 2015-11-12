@@ -1,6 +1,6 @@
 {
   "name": "emits-change",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plug-and-play node.js events integration to emit change events",
   "main": "lib/index.js",
   "scripts": {
@@ -25,13 +25,15 @@
     "url": "https://github.com/spatie/emits-events/issues"
   },
   "homepage": "https://github.com/spatie/emits-events#readme",
+  "dependencies": {
+    "object-assign": "^4.0.1"
+  },
   "devDependencies": {
     "babel": "^5.8.23",
     "babel-runtime": "^5.8.25",
     "chai": "^3.3.0",
     "eslint": "^1.7.2",
     "mocha": "^2.3.3",
-    "mocha-babel": "^3.0.0",
-    "object-assign": "^4.0.1"
+    "mocha-babel": "^3.0.0"
   }
 }
