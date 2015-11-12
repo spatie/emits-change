@@ -1,6 +1,6 @@
 {
   "name": "emits-change",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Plug-and-play node.js events integration to emit change events",
   "main": "lib/index.js",
   "scripts": {
