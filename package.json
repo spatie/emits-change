@@ -1,7 +1,7 @@
 {
   "name": "emits-change",
   "version": "0.1.0",
-  "description": "Opinionated, plug-and-play node.js events integration to emit change events",
+  "description": "Plug-and-play node.js events integration to emit change events",
   "main": "lib/index.js",
   "scripts": {
     "build": "babel src -d lib",
