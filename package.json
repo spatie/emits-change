@@ -1,0 +1,37 @@
+{
+  "name": "emits-change",
+  "version": "0.1.0",
+  "description": "Opinionated, plug-and-play node.js events integration to emit change events",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "eslint . && mocha --compilers js:mocha-babel test",
+    "prepublish": "npm run test && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spatie/emits-events.git"
+  },
+  "keywords": [
+    "events",
+    "emit",
+    "emitter",
+    "change",
+    "store"
+  ],
+  "author": "Sebastian De Deyne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spatie/emits-events/issues"
+  },
+  "homepage": "https://github.com/spatie/emits-events#readme",
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "babel-runtime": "^5.8.25",
+    "chai": "^3.3.0",
+    "eslint": "^1.7.2",
+    "mocha": "^2.3.3",
+    "mocha-babel": "^3.0.0",
+    "object-assign": "^4.0.1"
+  }
+}
