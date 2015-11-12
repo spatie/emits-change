@@ -2,6 +2,7 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/spatie/emits-change.svg?style=flat-square)](https://travis-ci.org/spatie/emits-change)
+[![Code Climate](https://codeclimate.com/github/spatie/emits-change/badges/gpa.svg)](https://codeclimate.com/github/spatie/emits-change)
 
 Plug-and-play node.js events integration to emit change events.
 
