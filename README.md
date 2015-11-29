@@ -39,7 +39,7 @@ emitter.listen(doSomethingOnChange)
 emitter.emitChange()
 // => hodor
 
-emitter.unlisten(doSomethingOnChane)
+emitter.unlisten(doSomethingOnChange)
 
 emitter.emitChange()
 // => *nothing*
