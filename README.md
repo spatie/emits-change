@@ -9,7 +9,7 @@ Plug-and-play node.js events integration to emit change events.
 
 ## Support us
 
-[![Image](https://github-ads.s3.eu-central-1.amazonaws.com/emits-change.jpg)](https://spatie.be/github-ad-click/emits-change)
+[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/emits-change.jpg?t=1" width="419px" />](https://spatie.be/github-ad-click/emits-change)
 
 We invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can support us by [buying one of our paid products](https://spatie.be/open-source/support-us).
 
