@@ -1,3 +1,6 @@
+
+[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
+
 # emits-change
 
 [![Latest Version on NPM](https://img.shields.io/npm/v/emits-change.svg?style=flat-square)](https://npmjs.com/package/emits-change)
